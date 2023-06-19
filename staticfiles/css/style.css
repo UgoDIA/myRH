@@ -1,0 +1,47 @@
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(163, 163, 163);
+    padding: 0px;
+}
+
+.navbar-title {
+    flex-grow: 1;
+    text-align: center;
+}
+
+
+.container {
+    width: 60%;
+}
+
+.btn-icon {
+    padding: 0px;
+}
+
+.btn-icon i {
+    font-size: 50px;
+}
+
+.bi {
+    font-size: 23px;
+}
+
+#cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.btn-delete {
+    margin-left: 50px;
+}
