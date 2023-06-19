@@ -2,7 +2,7 @@
 
 
  ## Installation :
-- Installer un environnement virtuel : `py -m venv .env`
+- Installer un environnement virtuel dans le dossier "backend" : `py -m venv .env`
 - Lancer l'environnement virtuel : `.env\Scripts\activate`
 - Installer les différents modules: `pip install -r requirements.txt`
 - Mettre à jour les infos de connexion db local dans myRH/settings.py
