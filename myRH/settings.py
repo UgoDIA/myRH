@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-v%&=4l34%w=)45i*2&e)ubiufx#_exx*vpzzp3e*o0cgju04u+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["myrh.azurewebsites.net"]
+ALLOWED_HOSTS = ["127.0.0.1","myrh.azurewebsites.net"]
 
 CSRF_TRUSTED_ORIGINS = ["https://myrh.azurewebsites.net"]
 
